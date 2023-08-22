@@ -1,16 +1,7 @@
-# pomodoro_app
-
+# Pomodoro_app
 A new Flutter project.
+# The Pomodoro Technique is a time management method based on 25-minute stretches of focused work broken by five-minute breaks.
 
-## Getting Started
+[pomodoro.webm](https://github.com/YoussefAbdAlNaser/WorledTime/assets/104595900/bc8ce199-3033-4cac-aaef-3595ed2edc9d)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
